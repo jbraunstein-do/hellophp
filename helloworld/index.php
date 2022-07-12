@@ -1,3 +1,5 @@
+<p><a href="child/child.php">Go to child page</a></p>
+
 <?php
 
 $servername = "dbaas-db-93735-do-user-10071316-0.b.db.ondigitalocean.com";
