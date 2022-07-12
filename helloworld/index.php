@@ -3,7 +3,7 @@
 $servername = "dbaas-db-93735-do-user-10071316-0.b.db.ondigitalocean.com";
 $port = 25060;
 $username = "doadmin";
-$password = "mGWLPBiaB9gL5fHr";
+$password = $_ENV["DBPASSWORD"];
 $dbname = "myDB";
 
 // Create connection
