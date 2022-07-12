@@ -1,7 +1,7 @@
 <?php
 
 $servername = "dbaas-db-93735-do-user-10071316-0.b.db.ondigitalocean.com";
-$port = 25060
+$port = 25060;
 $username = "doadmin";
 $password = "mGWLPBiaB9gL5fHr";
 $dbname = "myDB";
